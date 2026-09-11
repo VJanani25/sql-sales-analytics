@@ -1,0 +1,13 @@
+customer_id,customer_name,segment,product_id,product_name,category,unit_price,order_id,order_date,quantity
+1,Arun Kumar,student,101,Analytics Starter,software,120.0,5001,2024-01-03,2
+2,Meera Shah,startup,102,Support Desk Pro,software,290.0,5002,2024-01-10,1
+3,Ravi Patel,enterprise,103,Data Quality Pack,services,180.0,5003,2024-01-15,1
+1,Arun Kumar,student,102,Support Desk Pro,software,290.0,5004,2024-02-02,1
+2,Meera Shah,startup,101,Analytics Starter,software,120.0,5005,2024-02-11,3
+3,Ravi Patel,enterprise,103,Data Quality Pack,services,180.0,5006,2024-02-19,2
+4,Divya Rao,startup,102,Support Desk Pro,software,290.0,5007,2024-03-04,2
+5,Neha Iyer,enterprise,101,Analytics Starter,software,120.0,5008,2024-03-08,1
+4,Divya Rao,startup,103,Data Quality Pack,services,180.0,5009,2024-03-21,2
+5,Neha Iyer,enterprise,102,Support Desk Pro,software,290.0,5010,2024-04-01,2
+1,Arun Kumar,student,103,Data Quality Pack,services,180.0,5011,2024-04-12,1
+2,Meera Shah,startup,102,Support Desk Pro,software,290.0,5012,2024-04-20,1
